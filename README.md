@@ -1,7 +1,7 @@
 <h1 align="center">🤠 Howdy! I'm Marcin</h1>
 
 <p align="center">
-I'm a Junior Developer building digital products using modern programming principles. I currently code for open-source projects and develop knowledge of React ecosystem. 
+I'm a Junior Developer building digital products using modern programming principles. I currently code for open-source projects and develop knowledge of TypeScript and PHP ecosystem. 
 </p>
 
 <div align="center"> 
@@ -15,11 +15,11 @@ I'm a Junior Developer building digital products using modern programming princi
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, PHP, HTML, CSS
-- ⚙️ React, NextJS, Laravel, Fastify
+- ⚙️ React, NextJS, Laravel, Fastify, Vue.js
 - 👁️ Tailwind, CSS Modules, Bootstrap
 - 💽 MySQL, PostreSQL
 - 🧪 Cypress, Jest, React Testing Library
-- ✨ Prettier, Eslint, Figma
+- ✨ Prettier, Eslint, Figma, Linux
   
 ## Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=Wojtazzzz&show_icons=true&theme=dracula" alt="Wojtazzzz" /></p>
