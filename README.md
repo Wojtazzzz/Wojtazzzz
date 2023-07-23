@@ -1,7 +1,7 @@
-<h1 align="center">🤠 Howdy! I'm Marcin</h1>
+<h1 align="center">🤠 Howdy! 🤠</h1>
 
 <p align="center">
-I'm a Web Developer building digital products using modern programming principles. I currently code for open-source projects and develop knowledge of TypeScript, React and PHP ecosystem. 
+I'm a Web Developer building digital products using modern programming principles. I currently code for open-source projects and develop knowledge of TypeScript, React and PHP ecosystem. Freelancer and developer at AtomStore.
 </p>
 
 <div align="center"> 
