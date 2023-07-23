@@ -1,7 +1,7 @@
 <h1 align="center">🤠 Howdy! I'm Marcin</h1>
 
 <p align="center">
-I'm a Junior Developer building digital products using modern programming principles. I currently code for open-source projects and develop knowledge of TypeScript and PHP ecosystem. 
+I'm a Web Developer building digital products using modern programming principles. I currently code for open-source projects and develop knowledge of TypeScript, React and PHP ecosystem. 
 </p>
 
 <div align="center"> 
@@ -15,7 +15,7 @@ I'm a Junior Developer building digital products using modern programming princi
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, PHP, HTML, CSS
-- ⚙️ React, NextJS, Laravel, Fastify, Vue.js
+- ⚙️ React, Next.js, Laravel, Fastify
 - 👁️ Tailwind, CSS Modules, Bootstrap
 - 💽 MySQL, PostreSQL
 - 🧪 Cypress, Jest, React Testing Library
