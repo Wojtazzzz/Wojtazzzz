@@ -1,7 +1,7 @@
 <h1 align="center">🤠 Howdy! 🤠</h1>
 
 <p align="center">
-I'm a Web Developer building digital products using modern programming principles. I currently code for open-source projects and develop knowledge of TypeScript, React and PHP ecosystem. Freelancer and developer at AtomStore.
+I'm a Web Developer building digital products using modern programming principles. I currently code for open-source projects and develop knowledge of TypeScript, React and PHP ecosystem. Freelancer and developer at the AtomStore company.
 </p>
 
 <div align="center"> 
