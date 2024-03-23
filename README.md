@@ -15,10 +15,10 @@ I'm a Web Developer building digital products using modern programming principle
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, PHP, HTML, CSS
-- ⚙️ React, Next.js, Laravel, Fastify
+- ⚙️ React, Next.js, Laravel, Vue
 - 👁️ Tailwind, CSS Modules, Bootstrap
-- 💽 MySQL, PostreSQL
-- 🧪 Cypress, Jest, React Testing Library
+- 💽 MySQL, PostreSQL, ElasticSearch
+- 🧪 Cypress, Jest, React Testing Library, PHPUnit
 - ✨ Prettier, Eslint, Figma, Linux
   
 ## Stats
