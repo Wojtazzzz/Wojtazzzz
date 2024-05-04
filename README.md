@@ -20,6 +20,9 @@ I'm a Web Developer building digital products using modern programming principle
 - 💽 MySQL, PostreSQL, ElasticSearch
 - 🧪 Cypress, Jest, React Testing Library, PHPUnit
 - ✨ Prettier, Eslint, Figma, Linux
+
+- ## My Projects
+- [https://artlist.dev/](https://artlist.dev/)
   
 ## Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=Wojtazzzz&show_icons=true&theme=dracula" alt="Wojtazzzz" /></p>
