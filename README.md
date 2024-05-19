@@ -1,7 +1,7 @@
 <h1 align="center">🤠 Howdy! 🤠</h1>
 
 <p align="center">
-I'm a Web Developer building digital products using modern programming principles. I currently code for open-source projects and develop knowledge of TypeScript, React and PHP ecosystem. Freelancer and developer at the AtomStore company.
+Motivated, self-taught developer with over 4 years of experience. Contributor to several open-source projects within the PHP and TypeScript ecosystems. Not afraid of new challenges and technologies.
 </p>
 
 <div align="center"> 
@@ -18,11 +18,13 @@ I'm a Web Developer building digital products using modern programming principle
 - ⚙️ React, Next.js, Laravel, Vue
 - 👁️ Tailwind, CSS Modules, Bootstrap
 - 💽 MySQL, PostreSQL, ElasticSearch
-- 🧪 Cypress, Jest, React Testing Library, PHPUnit
+- 🧪 Cypress, Playwright, Jest, PHPUnit, React Testing Library
 - ✨ Prettier, Eslint, Figma, Linux
 
 - ## My Projects
 - [ArtList.dev](https://artlist.dev/) - Games servers list
+- [PolskiFrontend.pl](https://github.com/typeofweb-org/polskifrontend) - Aggregator of Polish blogs, podcasts and videos
+- [StartCoding](https://github.com/Frontlive/Start-Coding) - Platform for beginner programmers
   
 ## Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=Wojtazzzz&show_icons=true&theme=dracula" alt="Wojtazzzz" /></p>
