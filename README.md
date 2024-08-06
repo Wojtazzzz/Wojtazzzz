@@ -14,11 +14,11 @@ Motivated, self-taught developer with over 4 years of experience. Contributor to
 <br>
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, HTML, CSS
-- ⚙️ React, Next.js, Laravel, Vue
+- 👨‍💻 TypeScript, JavaScript, PHP, HTML, CSS, SCSS
+- ⚙️ React, Next.js, Vue, Nuxt, Node, Laravel
 - 👁️ Tailwind, CSS Modules, Bootstrap
 - 💽 MySQL, PostreSQL, ElasticSearch
-- 🧪 Cypress, Playwright, Jest, PHPUnit, React Testing Library
+- 🧪 Cypress, Playwright, Jest, Vitest, PHPUnit, React Testing Library
 - ✨ Prettier, Eslint, Figma, Linux
 
 - ## My Projects
