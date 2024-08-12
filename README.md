@@ -21,7 +21,7 @@ Motivated, self-taught developer with over 4 years of experience. Contributor to
 - 🧪 Cypress, Playwright, Jest, Vitest, PHPUnit, React Testing Library
 - ✨ Prettier, Eslint, Figma, Linux
 
-- ## My Projects
+## My Projects
 - [ArtList.dev](https://artlist.dev/) - Games servers list
 - [PolskiFrontend.pl](https://github.com/typeofweb-org/polskifrontend) - Aggregator of Polish blogs, podcasts and videos
 - [StartCoding](https://github.com/Frontlive/Start-Coding) - Platform for beginner programmers
