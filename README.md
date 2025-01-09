@@ -14,9 +14,10 @@ Motivated, self-taught developer with over 4 years of experience. Contributor to
 <br>
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, HTML, CSS, SCSS
-- ⚙️ React, Next.js, Vue, Nuxt, Node, Laravel
-- 👁️ Tailwind, CSS Modules, Bootstrap
+- 👨‍💻 Elixir, TypeScript, JavaScript, PHP
+- ⚙️ React, Next.js, Vue, Phoenix
+- ⚙️ Node, Nest, Phoenix, Laravel, Symfony
+- 👁️ Tailwind, CSS Modules, Bootstrap, Shadcn
 - 💽 MySQL, PostreSQL, ElasticSearch
 - 🧪 Cypress, Playwright, Jest, Vitest, PHPUnit, React Testing Library
 - ✨ Prettier, Eslint, Figma, Linux
@@ -24,6 +25,7 @@ Motivated, self-taught developer with over 4 years of experience. Contributor to
 ## My Projects
 - [ArtList.dev](https://artlist.dev/) - Games servers list
 - [PolskiFrontend.pl](https://github.com/typeofweb-org/polskifrontend) - Aggregator of Polish blogs, podcasts and videos
+- [Facebook Clone V2](https://github.com/Wojtazzzz/facebook_clone_v2) - Clone of the popular Facebook app
 - [StartCoding](https://github.com/Frontlive/Start-Coding) - Platform for beginner programmers
   
 ## Stats
