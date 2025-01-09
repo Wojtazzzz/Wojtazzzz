@@ -25,7 +25,7 @@ Motivated, self-taught developer with over 4 years of experience. Contributor to
 ## My Projects
 - [ArtList.dev](https://artlist.dev/) - Games servers list
 - [PolskiFrontend.pl](https://github.com/typeofweb-org/polskifrontend) - Aggregator of Polish blogs, podcasts and videos
-- [Facebook Clone V2](https://github.com/Wojtazzzz/facebook_clone_v2) - Clone of the popular Facebook app
+- [Facebook Clone v2](https://github.com/Wojtazzzz/facebook_clone_v2) - Clone of the popular Facebook app
 - [StartCoding](https://github.com/Frontlive/Start-Coding) - Platform for beginner programmers
   
 ## Stats
