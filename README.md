@@ -20,7 +20,7 @@ Motivated, self-taught developer with over 4 years of experience. Contributor to
 - 👁️ Tailwind, CSS Modules, Bootstrap, Shadcn
 - 💽 MySQL, PostreSQL, ElasticSearch
 - 🧪 Cypress, Playwright, Jest, Vitest, PHPUnit, React Testing Library
-- ✨ Prettier, Eslint, Figma, Linux
+- ✨ Prettier, Eslint, Figma, Linux, Docker
 
 ## My Projects
 - [ArtList.dev](https://artlist.dev/) - Games servers list
