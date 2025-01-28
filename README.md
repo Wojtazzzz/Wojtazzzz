@@ -14,9 +14,9 @@ Motivated, self-taught developer with over 4 years of experience. Contributor to
 <br>
 
 ## Skills
-- 👨‍💻 Elixir, TypeScript, JavaScript, PHP
-- ⚙️ React, Next.js, Vue, Phoenix
-- ⚙️ Node, Nest, Phoenix, Laravel, Symfony
+- 👨‍💻 PHP, TypeScript, JavaScript, Elixir
+- ⚙️ React, Next.js, Vue, Nuxt
+- ⚙️ Node, Nest, Phoenix, Laravel, Symfony, Phoenix
 - 👁️ Tailwind, CSS Modules, Bootstrap, Shadcn
 - 💽 MySQL, PostreSQL, ElasticSearch
 - 🧪 Cypress, Playwright, Jest, Vitest, PHPUnit, React Testing Library
