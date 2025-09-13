@@ -15,18 +15,19 @@ Motivated, self-taught developer with over 4 years of experience. Contributor to
 
 ## Skills
 - 👨‍💻 PHP, TypeScript, JavaScript, Elixir
-- ⚙️ React, Next.js, Vue, Nuxt
-- ⚙️ Node, Nest, Phoenix, Laravel, Symfony, Phoenix
+- ⚙️ React, Next, Vue, Nuxt, Three.js
+- ⚙️ Laravel, Symfony, Node, Nest, Phoenix
 - 👁️ Tailwind, CSS Modules, Bootstrap, Shadcn
-- 💽 MySQL, PostreSQL, ElasticSearch
-- 🧪 Cypress, Playwright, Jest, Vitest, PHPUnit, React Testing Library
-- ✨ Prettier, Eslint, Figma, Linux, Docker
+- 💽 MySQL, PostreSQL, Redis, ElasticSearch, Algolia
+- 🧪 PHPUnit, Pest, Jest, Vitest, React Testing Library, Cypress, Playwright
+- ✨ Pint, Prettier, Eslint, Figma, Linux, Docker
 
 ## My Projects
-- [ArtList.dev](https://artlist.dev/) - Games servers list
-- [PolskiFrontend.pl](https://github.com/typeofweb-org/polskifrontend) - Aggregator of Polish blogs, podcasts and videos
-- [Facebook Clone v2](https://github.com/Wojtazzzz/facebook_clone_v2) - Clone of the popular Facebook app
-- [StartCoding](https://github.com/Frontlive/Start-Coding) - Platform for beginner programmers
+- [ArtList.dev](https://artlist.dev/) - games servers list (Symfony, Next)
+- [Solar System](https://github.com/Wojtazzzz/solar_system_3d) - solar System 3D (Three.js, TypeScript)
+- [PolskiFrontend.pl](https://github.com/typeofweb-org/polskifrontend) - aggregator of Polish blogs, podcasts and videos (TypeScript, Next)
+- [Facebook Clone v2](https://github.com/Wojtazzzz/facebook_clone_v2) - clone of the popular Facebook app (Elixir, Phoenix, Next)
+- [StartCoding](https://github.com/Frontlive/Start-Coding) - platform for beginner programmers (TypeScript, Next)
   
 ## Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=Wojtazzzz&show_icons=true&theme=dracula" alt="Wojtazzzz" /></p>
