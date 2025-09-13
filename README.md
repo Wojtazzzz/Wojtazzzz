@@ -24,7 +24,7 @@ Motivated, self-taught developer with over 4 years of experience. Contributor to
 
 ## My Projects
 - [ArtList.dev](https://artlist.dev/) - games servers list (Symfony, Next)
-- [Solar System](https://github.com/Wojtazzzz/solar_system_3d) - solar System 3D (Three.js, TypeScript)
+- [Solar System](https://solarsystem.byst.re/) - solar System 3D (Three.js, TypeScript)
 - [PolskiFrontend.pl](https://github.com/typeofweb-org/polskifrontend) - aggregator of Polish blogs, podcasts and videos (TypeScript, Next)
 - [Facebook Clone v2](https://github.com/Wojtazzzz/facebook_clone_v2) - clone of the popular Facebook app (Elixir, Phoenix, Next)
 - [StartCoding](https://github.com/Frontlive/Start-Coding) - platform for beginner programmers (TypeScript, Next)
