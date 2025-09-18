@@ -1,7 +1,7 @@
 <h1 align="center">🤠 Howdy! 🤠</h1>
 
 <p align="center">
-Motivated, self-taught developer with over 4 years of experience. Contributor to several open-source projects within the PHP and TypeScript ecosystems. Not afraid of new challenges and technologies.
+Motivated, self-taught developer with over 5 years of experience. Contributor to several open-source projects within the PHP and TypeScript ecosystems. Not afraid of new challenges and technologies.
 </p>
 
 <div align="center"> 
