@@ -23,11 +23,11 @@ Motivated, self-taught developer with over 5 years of experience. Contributor to
 - ✨ Pint, Prettier, Eslint, Figma, Linux, Docker, CI / CD
 
 ## My Projects
-- [ArtList.dev](https://artlist.dev/) - games servers list (Symfony, Next)
+- [ArtList.dev](https://serwery-minecraft.pro/serwery) - games servers list (Laravel, MySQL)
 - [Solar System](https://solarsystem.byst.re/) - Solar System 3D (Three.js, TypeScript)
-- [PolskiFrontend.pl](https://github.com/typeofweb-org/polskifrontend) - aggregator of Polish blogs, podcasts and videos (TypeScript, Next)
-- [Facebook Clone v2](https://github.com/Wojtazzzz/facebook_clone_v2) - clone of the popular Facebook app (Elixir, Phoenix, Next)
-- [StartCoding](https://github.com/Frontlive/Start-Coding) - platform for beginner programmers (TypeScript, Next)
+- [PolskiFrontend.pl](https://github.com/typeofweb-org/polskifrontend) - aggregator of Polish blogs, podcasts and videos (TypeScript, Next.js)
+- [Facebook Clone v2](https://github.com/Wojtazzzz/facebook_clone_v2) - clone of the popular Facebook app (Elixir, Phoenix, Next.js)
+- [StartCoding](https://github.com/Frontlive/Start-Coding) - platform for beginner programmers (TypeScript, Fastify, Next.js)
   
 ## Stats
-<p><img src="https://github-readme-stats.vercel.app/api?username=Wojtazzzz&show_icons=true&theme=dracula" alt="Wojtazzzz" /></p>
+<p><img src="https://github-stats-extended.vercel.app/api?username=Wojtazzzz&show_icons=true&theme=dracula" alt="Wojtazzzz" /></p>
